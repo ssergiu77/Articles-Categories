@@ -1,3 +1,5 @@
+<h1>TASK</h1>
+
 I. Sectiune admin (pe ruta „/dashboard”)
 
 - va fi accesibila doar utilizatorilor cu rol „admin”
